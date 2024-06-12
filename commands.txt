@@ -1,1 +1,2 @@
-1) git init repo_name.git
+1) git init repo_name.git # if you want create bare repo directory use like git init --bare repo_name.git
+2) git status # shows git current status
