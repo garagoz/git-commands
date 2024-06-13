@@ -1,2 +1,8 @@
 1) git init repo_name.git # if you want create bare repo directory use like git init --bare repo_name.git
 2) git status # shows git current status
+3) git log # shows committs from new commit to old commit
+4) git log -n # shows number of commits starting from new commits
+5) Tell github who we are when pushing 
+   git config --global user.name "username"
+   git config --global user.email "user@example.com"
+6) git config --list # shows configuration parameters
