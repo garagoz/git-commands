@@ -6,3 +6,5 @@
    git config --global user.name "username"
    git config --global user.email "user@example.com"
 6) git config --list # shows configuration parameters
+7) git branch	# shows all branches and currently branch you were in
+8) git branch mybranch	# creates new branch
