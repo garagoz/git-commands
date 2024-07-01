@@ -23,3 +23,4 @@
 11) git branch -d my_branch #Delete the branch called my_branch
 
 12) HEAD shows most recent commit, initially it shows branch, when we commit, HEAD points last commit
+13) git branch -f main HEAD~3 # assign a branch to three commit behind
