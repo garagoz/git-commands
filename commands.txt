@@ -19,3 +19,5 @@
 9) git checkout -b new_branch # creates new branch and switches to it
 
 10) git remote	# shows remote repositories
+
+11) git branch -d my_branch #Delete the branch called my_branch
