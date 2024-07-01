@@ -16,4 +16,6 @@
 
 8) git branch mybranch	# creates new branch
 
-9) git remote	# shows remote repositories
+9) git checkout -b new_branch # creates new branch and switches to it
+
+10) git remote	# shows remote repositories
