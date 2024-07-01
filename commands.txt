@@ -9,3 +9,4 @@
 7) git branch	# shows all branches and currently branch you were in
 8) git branch mybranch	# creates new branch
 9) git remote	# shows remote repositories
+10 ddsfsdf
