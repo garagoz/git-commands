@@ -25,3 +25,4 @@
 12) HEAD shows most recent commit, initially it shows branch, when we commit, HEAD points last commit
 13) git branch -f main HEAD~3 # assign a branch to three commit behind
 14) git merge branch2 # merge main branch with branch2
+15) git rebase main  # take recenly commits from main branch to current branch, put these down
