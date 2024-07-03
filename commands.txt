@@ -26,3 +26,4 @@
 13) git branch -f main HEAD~3 # assign a branch to three commit behind
 14) git merge branch2 # merge main branch with branch2
 15) git rebase main  # take recenly commits from main branch to current branch, put these down
+16) git push --force origin branch_name # pushing branch to remote repository, using --force needs
